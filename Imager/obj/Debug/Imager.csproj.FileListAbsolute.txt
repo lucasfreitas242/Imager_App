@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Imager\Imager\bin\Debug\Imager.exe.config
+C:\Users\lucas\source\repos\Imager\Imager\bin\Debug\Imager.exe
+C:\Users\lucas\source\repos\Imager\Imager\bin\Debug\Imager.pdb
+C:\Users\lucas\source\repos\Imager\Imager\obj\Debug\Imager.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Imager\Imager\obj\Debug\Imager.Properties.Resources.resources
+C:\Users\lucas\source\repos\Imager\Imager\obj\Debug\Imager.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Imager\Imager\obj\Debug\Imager.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Imager\Imager\obj\Debug\Imager.exe
+C:\Users\lucas\source\repos\Imager\Imager\obj\Debug\Imager.pdb
+C:\Users\lucas\source\repos\Imager\Imager\obj\Debug\Imager.Form1.resources
